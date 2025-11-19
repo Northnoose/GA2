@@ -80,3 +80,4 @@ Requires Python 3.9+ and PyTorch.
 
 ## PowerPoint
 If your looking for the presentation, here is a link to accses the PPT
+https://drive.google.com/drive/folders/1TQ7JsVr5fEvNWYBDOSAqt5kcCAmfBNSe?usp=drive_link
